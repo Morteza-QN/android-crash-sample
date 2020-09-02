@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050019769742",
+    "firebase_url": "https://crash-96404.firebaseio.com",
+    "project_id": "crash-96404",
+    "storage_bucket": "crash-96404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050019769742:android:688cad31d0eb98bde1c8df",
+        "android_client_info": {
+          "package_name": "com.morteza.crash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050019769742-cd4r4jib7jgqnh92q7pbnr8uhcss4i75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe8gwfFDYGqekgoJkm1BItbDbXBeZfaOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050019769742-cd4r4jib7jgqnh92q7pbnr8uhcss4i75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
